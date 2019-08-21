@@ -1,0 +1,12 @@
+D:\Projects\MRF_returns\MRF_returns\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\MRF_returns\MRF_returns\obj\x86\Debug\MRF_returns.vbproj.ResolveComReference.cache
+D:\Projects\MRF_returns\MRF_returns\obj\x86\Debug\MRF_returns.InsertBlock.resources
+D:\Projects\MRF_returns\MRF_returns\obj\x86\Debug\MRF_returns.Resources.resources
+D:\Projects\MRF_returns\MRF_returns\bin\Debug\MRF_returns.dll
+D:\Projects\MRF_returns\MRF_returns\bin\Debug\MRF_returns.pdb
+D:\Projects\MRF_returns\MRF_returns\bin\Debug\MRF_returns.xml
+D:\Projects\MRF_returns\MRF_returns\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\MRF_returns\MRF_returns\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\MRF_returns\MRF_returns\obj\x86\Debug\MRF_returns.dll
+D:\Projects\MRF_returns\MRF_returns\obj\x86\Debug\MRF_returns.xml
+D:\Projects\MRF_returns\MRF_returns\obj\x86\Debug\MRF_returns.pdb
